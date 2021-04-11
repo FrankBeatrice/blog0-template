@@ -20,7 +20,8 @@ Hard work and dedication is meant to mean something. It is not wrong when you ar
 Louis D. Lo Praeste & Zachary Slayback both make excellent points in their articles. As an emerging developer I see the valid points both parties address and expand onto. I see more verifiability in Lo Praeste's writing. However, I hope he has not forgotten what it means to be young and advantageous
 
 I myself have personally struggled with stress and the health issues that follow. Personally, I can identify with young tech developers who overwork. I think the main issue is that we as a society have forgotten there exists an in-between. To quote Lo Praeste "Balance, it's always only about balance."
-## Section Header
+
+## It's about working for a cause...something that is close to your heart.
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
