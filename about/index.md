@@ -7,6 +7,14 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+• I am a person that writes stuff.
+• I am a polygot.
+I am a person who should have started doing what he loved when he was younger.
+Software Engineer-Stragesgist-Writer-Critque-skeptic-dreamer
+
+This is my home on the internet
+You can find topics I've written about, content I thought was worth sharing & more
+
+
 
 This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
