@@ -21,7 +21,7 @@ The following 2 repositories list 100's of resources for newebies & seasoned cry
 If you'd like to learn about crypto & get paid for it! Sign-up on my invitation below
 -> https://coinbase.com/earn/comp/invite/6fbsmrq9
 
-![An image](https://cdn.pixabay.com/photo/2020/08/25/11/11/zebra-5516455_1280.jpg)
+![An image](https://media.tenor.com/images/6195b868b4cadfbf0862b29a09123da6/tenor.gif)
 
 
 
