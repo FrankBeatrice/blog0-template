@@ -1,6 +1,6 @@
 ---
 title: Crypto Reasources
-description: This post is a reasource list on crypto reasources: Some I've personally used & others that looking promising.
+description: This post is a list of crypto reasources.
 date: 2018-08-24
 tags:
   - second-tag
