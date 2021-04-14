@@ -18,5 +18,5 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 ## A sample GIF
 
-![A sample GIF](https://thumbs.gfycat.com/meatyhelpfuliriomotecat)
+![A sample GIF](https://gfycat.com/ifr/meatyhelpfuliriomotecat)
 
