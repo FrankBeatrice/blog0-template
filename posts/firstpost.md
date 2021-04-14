@@ -1,12 +1,11 @@
 ---
 title: This is my first post.
-description: This is a copy of my first ever blog post about  work-place-culture.
+description: This is a copy of my first ever blog post about work-place-culture.
 date: 2016-07-25
 tags:
   - another-tag
 layout: layouts/post.njk
 image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
----
 
 In response to Life and Death In The Silicon Valley | Louis D. Lo Praeste & Overtime Regulations Disproportionately Harm Young People & Startups | Zachary Slayback I feel the need to express my stance. Time is non-expendable , and should be utilized in a manner of true personal vitality. To quote one cartoonist's brave oxymoron "Tech problems do not exist... people problems exist"
 
@@ -21,18 +20,4 @@ Louis D. Lo Praeste & Zachary Slayback both make excellent points in their artic
 
 I myself have personally struggled with stress and the health issues that follow. Personally, I can identify with young tech developers who overwork. I think the main issue is that we as a society have forgotten there exists an in-between. To quote Lo Praeste "Balance, it's always only about balance."
 
-## It's about working for a cause...something that is close to your heart.
-
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
