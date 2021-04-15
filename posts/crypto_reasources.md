@@ -8,7 +8,6 @@ layout: layouts/post.njk
 ---
 ![Cyrpto GIF](https://media.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif)
 
-## 
 
 • Decrypt has become my favorite website for crypto news • https://decrypt.co/
 
@@ -20,8 +19,6 @@ The following 2 repositories list 100's of resources for newebies & seasoned cry
 
 If you'd like to learn about crypto & get paid for it! Sign-up on my invitation below
 -> https://coinbase.com/earn/comp/invite/6fbsmrq9
-
-![An image](https://media.tenor.com/images/6195b868b4cadfbf0862b29a09123da6/tenor.gif)
 
 
 
