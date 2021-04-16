@@ -7,18 +7,12 @@ eleventyNavigation:
   order: 3
 ---
 
-• I am a person that writes stuff.
-• I am a polygot.
-
-
-definitely should have started doing what he loved when he was younger.
-
 Software Engineer-Strategist-Writer-Critque-skeptic-dreamer
-
-
+• I am a person that writes stuff.   
+  - I am a polygot.
 
 This is my home on the internet
-You can find topics I've written about, content I thought was worth sharing & more
+You can find topics I've written about, content I thought wasworth sharing & more
 
 
 
