@@ -9,7 +9,7 @@ eleventyNavigation:
 
 Software Engineer-Strategist-Writer-Critque-skeptic-dreamer
 
-• I am a polygot.
+^ I am a polygot.
 
 This is my home on the internet
 You can find stuff I've written about, content I wanted to share & more ++
