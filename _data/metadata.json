@@ -1,8 +1,8 @@
 {
   "title": "Frank Beatrice's website._høme.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "url": "https://frankbeatrice.com/", 
+  "domain": "frankbeatrice.com",
+  "description": "Frank Beatrice's website",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
