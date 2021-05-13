@@ -1,7 +1,7 @@
 ---
 title: Crypto Reasources.
 description: List of crypto resources big \& small.
-date: 2018-09-30
+date: 2021-09-30
 tags: second-tag
 layout: layouts/post.njk
 
