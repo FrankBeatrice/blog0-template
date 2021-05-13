@@ -10,11 +10,11 @@
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://frankbeatrice.com.com"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://frankbeatrice.com/feed/feed.json"
   },
   "author": {
     "name": "Frank Beatrice. 'Frankie'",
